@@ -1,0 +1,40 @@
+====================================
+Hash          : 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+Method        : Dictionary Attack
+Password      : 1234
+Attempts      : 1
+Time (ns)     : 16625600
+Time (ms)     : 16,626
+Hashes/sec    : 60,15
+====================================
+
+====================================
+Hash          : 8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918
+Method        : Dictionary Attack
+Password      : admin
+Attempts      : 4
+Time (ns)     : 2621100
+Time (ms)     : 2,621
+Hashes/sec    : 1526,08
+====================================
+
+====================================
+Hash          : 5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8
+Method        : Dictionary Attack
+Password      : password
+Attempts      : 3
+Time (ns)     : 1283100
+Time (ms)     : 1,283
+Hashes/sec    : 2338,09
+====================================
+
+====================================
+Hash          : 2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824
+Method        : Dictionary Attack
+Password      : hello
+Attempts      : 5
+Time (ns)     : 1047500
+Time (ms)     : 1,048
+Hashes/sec    : 4773,27
+====================================
+
